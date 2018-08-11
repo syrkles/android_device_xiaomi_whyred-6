@@ -187,6 +187,9 @@ persist.camera.isp.turbo=1
 #EIS
 persist.camera.eis.enable=1
 
+#camera2api
+persist.camera.HAL3.enabled=1
+
 #exif info for camera
 persist.sys.exif.make=Xiaomi
 persist.sys.exif.model=Redmi Note 5
