@@ -4,6 +4,12 @@
     "target_path": "kernel/xiaomi/sdm660"
   },
   {
+    "repository": "jhenrique09/vendor_xiaomi_MiuiCamera",
+    "target_path": "vendor/xiaomi/MiuiCamera",
+    "branch": "master",
+    "remote": "github"
+  },
+  {
     "repository": "LineageOS/android_packages_resources_devicesettings",
     "target_path": "packages/resources/devicesettings",
     "branch": "lineage-15.1"
